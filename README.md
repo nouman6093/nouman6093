@@ -1,30 +1,57 @@
-### Hi there 👋, my name is Nouman Hameed
-#### I am an ML Engineer from Islamabad, Pakistan
+<h1 align="center">Hi, I'm Nouman Hameed 👋</h1>
+<h3 align="center">AI/ML Engineer · RAG & NLP Systems · Final-Year CS Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nouman6093&label=Profile%20views&color=0e75b6&style=flat" alt="nouman6093" /> </p>
+<p align="center">
+📍 Islamabad, Pakistan &nbsp;|&nbsp;
+🎓 BS Computer Science, NUML (Grad. Jan 2027) &nbsp;|&nbsp;
+🔭 Seeking fully-funded MS/PhD in AI/NLP
+</p>
 
-![I am a Python Developer from Islamabad, Pakistan](https://scontent.fmux3-1.fna.fbcdn.net/v/t39.30808-6/342737444_272562825184907_1650157518782234674_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHG5sjfksRvitKLTrzrP6lG2cqdQqzPKMLZyp1CrM8owu4m3IhwjETFWHhdLcyRQ8O9G8AbybeE-GMFhmQwulbV&_nc_ohc=Qgchszo2BWcQ7kNvgHi14K_&_nc_ht=scontent.fmux3-1.fna&oh=00_AYC9mqga1gyj7o7y39l8r6_0RGuNam34_zLLnMwrwo7Cpg&oe=66B419A3)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nouman6093&label=Profile%20views&color=0e75b6&style=flat" alt="nouman6093" />
+</p>
 
-There are 2 types of people on github. Type A are those who have less repositories but quality content, Type B are those who have a lot of repositories but no or less valuable content. I am type A!
+<p align="center">
+<a href="https://www.linkedin.com/in/nouman6093"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+<a href="mailto:hameednouman12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white"></a>
+<a href="https://orcid.org/0009-0003-9929-7915"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white"></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-- 🔭 I’m currently working on Python DSA Projects 
-- 🌱 I’m currently learning DSA in Python 
-- 👯 I’m looking to collaborate on hackathon 
-- 💬 Ask me about C++, Java, Python 
-- 📫 How to reach me: hameednouman12@gmail.com 
+### About Me
 
+I'm an AI/ML Engineer focused on **Retrieval-Augmented Generation, NLP, and applied machine learning**. Currently an ML Engineering Intern at **Flyrank AI**, building ranking models on large-scale enterprise data. My academic and project work centers on making AI systems practical — from legal-tech RAG pipelines to deployed ML services.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nouman6093)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/noumanhameed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://medium.com/@noumanhoonmein)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nouman6093//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nouman6093)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/noumanhoonmain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/noumanhoonmein)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/noumanhameed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13995095)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/nouman6093)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/nouman6093)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/noumanhameed)  
+- Research interests: RAG, Vector Search, LLM Systems, Predictive Modeling
+- Currently building: **E-Justice** — a RAG-based legal assistant over 1,000+ legal statutes
+- Actively applying to fully funded graduate programs (MEXT, DAAD, and others)
+- Learning: Advanced NLP architectures, distributed ML systems
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nouman6093)](https://github.com/ryo-ma/github-profile-trophy)
+### Featured Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouman6093)](https://github.com/anuraghazra/github-readme-stats)
+**E-Justice — AI-Powered Legal Assistant** *(Academic Capstone)*
+RAG system over 1,000+ legal sections (PPC, CrPC, Constitution) using Python, ChromaDB, and an LLM pipeline. Generates Urdu FIRs and bail petitions for non-English users.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nouman6093&show_icons=true)  
+**[Enterprise Content Decay Ranking Model](https://github.com/nouman6093/flyrank-internship-summer-2026)**
+Random Forest ranking model on 30,000 enterprise web pages (Flyrank AI), achieving 0.72 Precision@50 with grouped client holdout cross-validation — a ~2.5x precision lift over heuristic baselines.
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nouman6093)
+**[Student Performance Predictor](https://github.com/nouman6093/studentperformaceindicator)**
+ML web app (Scikit-learn + FastAPI) predicting student outcomes from 7 demographic variables. Containerized with Docker and deployed on AWS ECS via ECR.
+
+**[Electronics Shop Management System](https://github.com/nouman6093/Electronics-Managament)**
+Cloud-based POS application (C# ASP.NET MVC, MySQL) with full CRUD across 7 operational modules, a Gemini-powered AI help desk, and a disaster recovery pipeline for catalog/customer data.
+
+**[TradeMe/BidBud Data Extraction Suite](https://github.com/nouman6093/trademe_web_scraping)**
+Desktop automation tool (Python, PyQt5, Selenium) extracting structured product data across multi-page e-commerce sites, validated with 100+ integration tests.
+
+---
+
+### Tech Stack
+
+**Languages:** Python · C# · Java · C++ · SQL
+**AI/ML:** Scikit-learn · NumPy · Pandas · RAG · ChromaDB · LLM APIs
+**Backend & Cloud:** FastAPI · Docker · AWS (ECS/ECR) · ASP.NET MVC
+**Tools:** Git · GitHub · MySQL · Selenium · BeautifulSoup
